@@ -1,7 +1,7 @@
 @echo off
 
-set /A MAX_VIDEO_SIZE=187500000
-set /A MAX_AUDIO_SIZE=12500000
+set /A MAX_VIDEO_SIZE=75000000
+set /A MAX_AUDIO_SIZE=5000000
 
 if "%~1" == "" goto nofile
 

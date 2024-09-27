@@ -1,5 +1,5 @@
 # discord-video
-A simple bash and batch script that uses ffmpeg to compress videos to fit under 25 MB (Discord free upload limit)
+A simple bash and batch script that uses ffmpeg to compress videos to fit under 10 MB (Discord free upload limit)
 
 ## Dependencies
 * ffmpeg
@@ -13,4 +13,4 @@ A simple bash and batch script that uses ffmpeg to compress videos to fit under 
 ### Windows
 ``discord-video.bat <video-file>``
 
-Output will then be a file ending with -compressed.webm
+Output will then be a file ending with -compressed.mp4

@@ -1,9 +1,9 @@
 #!/bin/bash
 
-# 200 000 000 bits / video length = target bitrate
+# 80 000 000 bits / video length = target bitrate
 
-MAX_VIDEO_SIZE="187500000"
-#MAX_AUDIO_SIZE="12500000"
+MAX_VIDEO_SIZE="75000000"
+#MAX_AUDIO_SIZE="5000000"
 
 # Check argument
 
